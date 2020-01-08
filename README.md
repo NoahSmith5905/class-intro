@@ -5,5 +5,6 @@ The student I got to meet is '@phanquocthang99'. He is from Vietnam, and is visi
 * He is into movies and video games
 * He is a computer science major, and will be transferring to OSU to continue schooling
 ![Image of OSU](https://www.finalcall.com/artman/uploads/3/oregon_state_edu_01-14-2014.jpg)
+
 OSU website
 [OSU](https://oregonstate.edu/)
